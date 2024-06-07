@@ -25,7 +25,7 @@ import {
   javascriptMastery,
   osis,
   threejs,
-  Sparks,
+  sparks,
   Admin,
   shirt,
   pod,
@@ -137,7 +137,7 @@ const experiences = [
   {
     title: "Web Developer",
     company_name: "Sparks Foundation",
-    icon: Sparks,
+    icon: sparks,
     iconBg: "#E6DEDD",
     date: "March 2024 - April 2024",
     points: [

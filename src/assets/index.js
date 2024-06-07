@@ -28,7 +28,7 @@ import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 import javascriptMastery from "./company/javascriptMastery.png";
 import osis from "./company/osis.jpg";
-import Sparks from "./company/Sparks.png";
+import sparks from "./company/sparks.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -70,7 +70,7 @@ export {
   tripguide,
   javascriptMastery,
   osis,
-  Sparks,
+  sparks,
   Admin,
   shirt,
   pod,
