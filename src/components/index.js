@@ -13,7 +13,6 @@ export {
   Hero,
   Navbar,
   About,
-  Tech,
   Experience,
   Works,
   Feedbacks,
